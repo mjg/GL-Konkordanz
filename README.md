@@ -36,5 +36,8 @@ Schnitt auf A5
 
 Faltung auf A6
 
+Zusammenfügen und mittig Heften
+
+Mit der ersten Seite
 Einstecken oder Einkleben
 in den linken Einband
